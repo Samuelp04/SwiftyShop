@@ -92,3 +92,34 @@ shop:
         buy_price: 100
         sell_price: 50
 ```
+---
+## Commands
+
+**Shop Commands**
+
+- /shop - Opens the main shop GUI.
+- 
+**Economy Commands**
+
+- /balance - Check your balance.
+- /addmoney <player> <amount> - Add money to a player's balance.
+- /removemoney <player> <amount> - Remove money from a player's balance.
+
+---
+
+**Permissions**
+
+- shopplugin.use - Allows access to shop commands.
+- shopplugin.admin - Allows access to admin commands (addmoney, removemoney).
+
+---
+
+**License**
+
+**ShopPlugin** is licensed under the MIT License.
+
+---
+
+**Contact**
+
+For questions, suggestions, or support, please contact us via our [Discord Server](https://discord.gg/5CEWv5pNXA) or open an issue in this repository.
