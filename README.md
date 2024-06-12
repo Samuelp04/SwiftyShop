@@ -98,7 +98,7 @@ shop:
 **Shop Commands**
 
 - /shop - Opens the main shop GUI.
-- 
+
 **Economy Commands**
 
 - /balance - Check your balance.
