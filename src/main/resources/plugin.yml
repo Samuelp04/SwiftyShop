@@ -1,0 +1,4 @@
+name: SwiftyShop
+version: '${project.version}'
+main: org.sammyp.swiftyshop.SwiftyShop
+api-version: '1.20'
